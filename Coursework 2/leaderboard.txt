@@ -1,0 +1,9 @@
+{
+    "weakestlegdayenjoyer": 100,
+    "weakestegolifter": 100,
+    "chico barret": 10,
+    "krishna ronaldo": 1,
+    "belligol": 2,
+    "shhh": 2,
+    "sana desk": 1
+}
